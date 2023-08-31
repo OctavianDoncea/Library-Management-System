@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1604868167 source:c:\users\octav\desktop\p2\proiect oop\main.cpp
+	<iostream>
+	<string.h>
+
